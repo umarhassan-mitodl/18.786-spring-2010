@@ -1,0 +1,44 @@
+{
+  "term": "Spring",
+  "year": "2010",
+  "level": [
+    "Graduate"
+  ],
+  "topics": [
+    [
+      "Mathematics",
+      "Algebra and Number Theory"
+    ]
+  ],
+  "legacy_uid": "7e67fd6e-18b8-d516-fe20-a2a82fac1717",
+  "instructors": {
+    "content": [
+      "006e5c25-e7be-44ee-b7a0-e39b494bf627"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "ad625fcd-bac7-9d7e-2633-be2dd7b4aedd",
+    "website": "18-786-topics-in-algebraic-number-theory-spring-2010"
+  },
+  "course_title": "Topics in Algebraic Number Theory",
+  "hide_download": true,
+  "course_description": "This course provides an introduction to algebraic number theory. Topics covered include dedekind domains, unique factorization of prime ideals, number fields, splitting of primes, class group, lattice methods, finiteness of the class number, Dirichlet's units theorem, local fields, ramification, discriminants.\n",
+  "department_numbers": [
+    "18"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "18.786",
+  "course_image_thumbnail": {
+    "content": "f98ffcfa-40ba-cb7c-22a9-afee9882460b",
+    "website": "18-786-topics-in-algebraic-number-theory-spring-2010"
+  },
+  "hide_download_original": true,
+  "learning_resource_types": [
+    "Problem Sets"
+  ],
+  "site_uid": "a2ea399e-3226-4c01-97bc-d72cc0071df0",
+  "site_short_id": "18.786-spring-2010",
+  "site_url_path": "courses/18-786-topics-in-algebraic-number-theory-spring-2010",
+  "title": "Course Metadata"
+}
